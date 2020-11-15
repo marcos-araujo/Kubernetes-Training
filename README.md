@@ -1,5 +1,21 @@
 # Kubernetes-training
 
-Architecture
+Kubernetes project make for training.
 
-![alt text](https://github.com/marcos-araujo/Kubernetes-training/blob/master/kubernetes.png)
+## Resources
+
+- Pod
+- Service
+- ConfigMap
+- Volumes
+- Persistent Volume Claim
+- Deployment
+- Liveness Probe
+- Readiness Probe
+- StatefulSet
+- Architecture
+- Horizontal Horizontal Pod Autoscaler
+
+## Archtecture:
+
+![Archtecture](https://github.com/marcos-araujo/Kubernetes-training/blob/master/kubernetes.png)
