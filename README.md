@@ -1,4 +1,4 @@
-# Kubernetes-training
+# Kubernetes Training
 
 Kubernetes project make for training.
 
