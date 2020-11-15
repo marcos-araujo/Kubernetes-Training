@@ -16,6 +16,6 @@ Kubernetes project make for training.
 - Architecture
 - Horizontal Horizontal Pod Autoscaler
 
-## Archtecture:
+## Archtecture
 
 ![Archtecture](https://github.com/marcos-araujo/Kubernetes-training/blob/master/kubernetes.png)
